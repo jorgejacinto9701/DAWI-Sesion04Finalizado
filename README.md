@@ -1,4 +1,4 @@
-# DAWI-Sesion04Inicio
+# DAWI-Sesion04Finalizado
 ### Ubigeo con JPA
 
 ## Autor ✒️
