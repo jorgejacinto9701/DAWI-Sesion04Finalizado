@@ -26,11 +26,13 @@
 
 <div class="container">
 <h1>Ubigeo</h1>
-
-	<form action="registraCompu" id="id_form"> 
+	
+		
+	<form action="registraCompu" id="id_form">
+		<div style="width: 20%"> 
 			<div class="form-group">
 				<label class="control-label" for="id_departamento">DEPARTAMENTO</label>
-				<select id="id_departamento" name="" class='form-control'>
+				<select id="id_departamento" name="" class='form-control' >
 					<option value=" ">[Seleccione Departamento]</option>    
 				</select>
 		    </div>
@@ -46,7 +48,7 @@
 					<option value=" ">[Seleccione Distrito]</option>    
 				</select>
 		    </div>
-
+		</div>
 	</form>
 </div>
 
